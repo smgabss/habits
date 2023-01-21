@@ -1,4 +1,4 @@
 #habits
 Oi!
 
-- [Link aqui] {https://soulGabiis.github.io/habits/}
+- [Link aqui] {https://soulgabiis.github.io/habits/}
