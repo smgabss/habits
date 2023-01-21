@@ -23,6 +23,18 @@ header {
   background-color: #09090a;
 }
 
+p {
+  margin-bottom: 8px;
+
+  font-family: "Roboto Mono";
+  font-size: 30px;
+  line-height: 125%;
+
+  color: #a1a1aa;
+
+  text-align: center;
+}
+
 button {
   padding: 16px 24px;
   border-radius: 8px;
